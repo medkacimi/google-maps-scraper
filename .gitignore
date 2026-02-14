@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output data (samples are tracked, real scrapes are not)
+output/*.csv
+output/*.json
+output/*.xlsx
+!output/.gitkeep
+
+# Selenium
+chromedriver
+geckodriver
+
+# Logs
+*.log
