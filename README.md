@@ -245,8 +245,6 @@ The author is not responsible for any misuse or damage caused by this tool. Alwa
 ## 👤 Author
 
 **Mohamed KACIMI**
-- Email: meddkacimi@gmail.com
-- LinkedIn: [mohamed-kacimi](https://linkedin.com/in/mohamed-kacimi)
 
 ---
 
